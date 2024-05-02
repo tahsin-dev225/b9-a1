@@ -1,0 +1,35 @@
+body{
+    font-family: "Merriweather", serif;
+}
+
+.banner{
+    background-image: url('resources/Banner\ Image.png');
+    height:600px;
+    width:86.8%;
+    margin:0 auto;
+    
+}
+.banner-description h4{
+    color:white;
+    font-weight:400px;
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    
+}
+
+.banner-description h1{
+    color:white;
+    font-weight:800px;
+    font-size: 70px;
+    text-align: center;
+    margin: 0;
+}
+.shad{
+    width:100%;
+    background-color: rgba(0, 0, 0, 0.517);
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
