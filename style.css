@@ -62,6 +62,7 @@ body{
     background-image: url('resources/Vectorrr.png');
     width:87.8%;
     margin:0 auto;
+    border-radius: 10px;
 }
 
 .welcome-text{
@@ -130,4 +131,49 @@ body{
 }
 .coming-t{
     width:30%;
+}
+.holiday-f p{
+    width:50%;
+    margin:0 auto;
+}
+.holiday{
+    margin-top: 60px;
+}
+.holiday-s{
+    width:90%;
+    margin:0 auto;
+    height:600px;
+    
+}
+.img-rec{
+ position:bottom left;
+}
+
+.rec{
+    display: flex;
+}
+.red-img{
+
+}
+
+.portfolio{
+    width:88%;
+    margin: 0 auto;
+}
+.portfolio p{
+    width:65%;
+}
+.portfolio-first{
+    display:flex;
+    justify-content: center;
+    gap:30px;
+    margin-bottom: 30px;
+}
+.portfolio-second{
+    display:flex;
+    justify-content: center;
+    gap:30px;
+}
+.port{
+    
 }
