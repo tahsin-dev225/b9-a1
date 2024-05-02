@@ -105,4 +105,29 @@ body{
 .coming{
     width:80%;
     display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:0 auto;
+    gap:40px;
+    margin-top: 80px;;
+}
+.coming-f{
+    width:30%;
+}
+.coming-s{
+    width:4=30%;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 50%;
+    border: 15px solid #FF0000;
+    background-color: white;
+}
+.coming-circle{
+    border-width: 5px solid black;
+    
+}
+.coming-t{
+    width:30%;
 }
