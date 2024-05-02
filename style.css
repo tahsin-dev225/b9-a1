@@ -61,6 +61,7 @@ body{
     align-items: center;
     background-image: url('resources/Vectorrr.png');
     width:87.8%;
+    height:600px;
     margin:0 auto;
     border-radius: 10px;
 }
